@@ -1,0 +1,17 @@
+{
+  "editor.formatOnSave": true,
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.indentSize": "tabSize",
+  "editor.wordWrapColumn": 80,
+  "editor.tabSize": 2,
+  "editor.tabCompletion": "on",
+  "editor.guides.bracketPairs": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "always"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.configPath": ".prettierrc",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "diffEditor.wordWrap": "on",
+}
